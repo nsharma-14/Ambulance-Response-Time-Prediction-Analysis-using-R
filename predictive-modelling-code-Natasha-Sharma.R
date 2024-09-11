@@ -215,6 +215,7 @@ val_lab(a$initial_call_type)=num_lab("
 ")
 
 #check that initial call type labels loaded correctly
+
 data.frame(table(a$initial_call_type))
 
 #label final_call_type
