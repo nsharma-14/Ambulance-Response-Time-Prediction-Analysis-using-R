@@ -1,4 +1,5 @@
 # Ambulance Response Time Prediction Analysis using R
+# By: Natasha Sharma
 
 ### Task Description: 
 As an analyst we are supposed to predict the time taken for an Ambulance to respond to a call based on the data provided. We will have to use one of the Machine Learning algorithms to complete this task. We will also have to analyze the data to figure out what factors will affect the response time and how those factors can be used in our ML algorithm.
